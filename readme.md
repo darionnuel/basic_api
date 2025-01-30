@@ -18,8 +18,8 @@ Uses **CORS** for cross-origin access
 ### **1️⃣ Clone the Repository**
 
 ```sh
-git clone https://github.com/yourusername/your-repo.git
-cd your-repo
+git clone [github_repo](https://github.com/darionnuel/basic_api.git)
+cd basic_api
 ```
 
 ### **2️⃣ Install Dependencies**
@@ -47,15 +47,15 @@ node index.js
 ```json
 {
   "email": "emmanueloguneko@gmail.com",
-  "current_datetime": "2025-01-30T09:30:00Z",
-  "github_url": "https://github.com/yourusername/your-repo"
+  "current_datetime": "2025-01-30T12:11:18.035Z",
+  "github_url": "[github repo](https://github.com/darionnuel/basic_api)"
 }
 ```
 
 ## 🚀 Deployment
 
 The API is live at:
-[🔗 https://your-api-url](https://your-api-url)
+[🔗 basic_api](https://basic-api-rrr9.onrender.com)
 
 🔨 Built with ❤️ using Node.js & Express
 📌 Maintained by Emmanuel Oguneko
